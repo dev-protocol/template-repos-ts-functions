@@ -18,7 +18,7 @@
 		"@azure/functions": "3.0.0",
 		"bent": "7.3.12",
 		"ramda": "0.28.0",
-		"ethereum-waffle": "3.4.0"
+		"ethereum-waffle": "3.4.4"
 	},
 	"devDependencies": {
 		"@ava/typescript": "3.0.1",
