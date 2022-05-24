@@ -10,10 +10,10 @@
     escape-string-regexp "^5.0.0"
     execa "^5.1.1"
 
-"@azure/functions@3.1.0":
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/@azure/functions/-/functions-3.1.0.tgz#fd26ce6afcea1fdc27ef0faac7810853236f957d"
-  integrity sha512-xjMPLNa9Y46OI/Gt9bmyd2JQj+JS9zK9dDj+X+F193fgXGqxLPj5oNmSPkDpt5rvriHRR09gxe2M9qYlFNHnGg==
+"@azure/functions@3.2.0":
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/@azure/functions/-/functions-3.2.0.tgz#c73003db8bd93be186824db29e98e00879bf0f91"
+  integrity sha512-HbE7iORnYcjLzKNf5mIQRJQDTsVxhoXHRWEZ6KWdGh4e7+F9xTloiBicavbSoVmlAYivenIVpryHanVwsQaHUw==
 
 "@ensdomains/ens@^0.4.4":
   version "0.4.5"
