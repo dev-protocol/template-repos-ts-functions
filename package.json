@@ -21,7 +21,7 @@
 		"ethereum-waffle": "3.4.4"
 	},
 	"devDependencies": {
-		"@ava/typescript": "3.0.1",
+		"@ava/typescript": "4.1.0",
 		"@types/bent": "7.3.8",
 		"@types/dotenv": "8.2.0",
 		"@types/node": "20.11.6",
